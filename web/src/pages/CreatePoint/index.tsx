@@ -137,12 +137,12 @@ const CreatePoint = () => {
 
         await api.post('points', data)
         alert('Ponto de coleta criado!')
-        history.push('/')
+        history.push('/')  
     }
 
     return(
        <div id="page-create-point">
-           <header>
+           <header> 
                <img src={logo} alt="Ecoleta"/>
             <Link to="/">
                 <FiArrowDownLeft />
