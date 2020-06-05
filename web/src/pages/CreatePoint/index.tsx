@@ -130,7 +130,7 @@ const CreatePoint = () => {
             whatsapp,
             uf,
             city,
-            latitude,
+            latitude, 
             longitude,
             items
         }
