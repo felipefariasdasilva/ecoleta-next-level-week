@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecoleta-next-level-week/static/css/main.29b94e20.chunk.css",
+    "main.js": "/ecoleta-next-level-week/static/js/main.9ba245c4.chunk.js",
+    "main.js.map": "/ecoleta-next-level-week/static/js/main.9ba245c4.chunk.js.map",
+    "runtime-main.js": "/ecoleta-next-level-week/static/js/runtime-main.487a1e2a.js",
+    "runtime-main.js.map": "/ecoleta-next-level-week/static/js/runtime-main.487a1e2a.js.map",
+    "static/js/2.48dd8181.chunk.js": "/ecoleta-next-level-week/static/js/2.48dd8181.chunk.js",
+    "static/js/2.48dd8181.chunk.js.map": "/ecoleta-next-level-week/static/js/2.48dd8181.chunk.js.map",
+    "index.html": "/ecoleta-next-level-week/index.html",
+    "precache-manifest.f5d4f925d434a02d9f1aefa3a97cd0dd.js": "/ecoleta-next-level-week/precache-manifest.f5d4f925d434a02d9f1aefa3a97cd0dd.js",
+    "service-worker.js": "/ecoleta-next-level-week/service-worker.js",
+    "static/css/main.29b94e20.chunk.css.map": "/ecoleta-next-level-week/static/css/main.29b94e20.chunk.css.map",
+    "static/js/2.48dd8181.chunk.js.LICENSE.txt": "/ecoleta-next-level-week/static/js/2.48dd8181.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/ecoleta-next-level-week/static/media/home-background.fe2283e1.svg",
+    "static/media/logo.svg": "/ecoleta-next-level-week/static/media/logo.47c4581a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487a1e2a.js",
+    "static/js/2.48dd8181.chunk.js",
+    "static/css/main.29b94e20.chunk.css",
+    "static/js/main.9ba245c4.chunk.js"
+  ]
+}
