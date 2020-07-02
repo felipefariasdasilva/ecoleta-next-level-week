@@ -1,6 +1,6 @@
-# Ecoleta
+# :deciduous_tree: Ecoleta
 
-Um parágrafo simples dando uma descrição sobre o projeto 
+Aplicação para o encontro entre pessoas que queiram doar/entregar materiais recicláveis e pontos e coletas para Web e Mobile. Curso ministrado pela @RocketSeat
 
 ## Começando
 
